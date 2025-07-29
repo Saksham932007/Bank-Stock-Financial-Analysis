@@ -1,7 +1,9 @@
-Bank Stock Financial Analysis
+# Bank Stock Financial Analysis
 Project Overview
 
 This project provides a comprehensive visual analysis of the stock performance of five major US banks over a five-year period. Using Python with pandas, matplotlib, and seaborn, the script fetches historical stock data from a CSV file, processes it, and generates a 2x2 dashboard of insightful visualizations.
+
+![Financial Analysis Dashboard](bank_data_visualization.jpg)
 
 The final output is a single PNG image that includes:
 
