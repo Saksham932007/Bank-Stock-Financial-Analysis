@@ -32,9 +32,6 @@ To run this analysis on your own machine, follow these steps:
 
 1. Clone the Repository (or download the files):
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
 2. Download the Dataset:
 
     Make sure you have the all_stocks_5yr.csv file in the same directory as the Python script.
